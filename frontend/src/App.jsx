@@ -23,7 +23,7 @@ const App = () => {
     console.log('Refreshed app ', token);
     return (
         <Router>
-            <Header />
+            {window.location.pathname !== '/' && <Header />}
             <div className={classes.root}>
                 <Switch>
                     <Route exact path="/">
