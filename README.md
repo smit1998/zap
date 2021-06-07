@@ -1,6 +1,6 @@
 # zap-
 
-This was a university project based kahoot. 
+This was a university project done in React.js based on kahoot. 
 
 They called it Big Brain but I thought Zap was a much cooler name.
 
