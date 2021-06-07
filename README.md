@@ -1,4 +1,4 @@
-# zap-
+# zap
 
 This was a university project done in React.js based on kahoot. 
 
