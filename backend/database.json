@@ -1,0 +1,55 @@
+{
+    "admins": {
+      "jenn@unsw.edu.au": {
+        "name": "Jennifer ",
+        "password": "12345",
+        "sessionActive": true
+      }
+    },
+    "quizzes": {
+      "852896": {
+        "quizId": "222467071",
+        "position": 2,
+        "isoTimeLastQuestionStarted": "2021-04-22T02:57:16.434Z",
+        "players": {},
+        "questions": [
+          {
+            "id": 0,
+            "name": "What's my name?",
+            "time_limit": 20,
+            "choices": [
+              {
+                "value": "Jennifer",
+                "isCorrect": true,
+                "id": 0
+              },
+              {
+                "value": "Benjamin",
+                "isCorrect": false,
+                "id": 1
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "name": "What's your name?",
+            "time_limit": 20,
+            "choices": [
+              {
+                "value": "Jennifer",
+                "isCorrect": false,
+                "id": 0
+              },
+              {
+                "value": "Benjamin",
+                "isCorrect": true,
+                "id": 1
+              }
+            ]
+          }
+        ],
+        "active": false,
+        "answerAvailable": true
+      }
+    }
+  }
